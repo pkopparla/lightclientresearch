@@ -10,8 +10,9 @@ Notes and resources on Eth2 light clients / consensus spec implementations + rus
 1. Alex Stokes repo: https://github.com/ralexstokes/ethereum_consensus
 
 ### Light clients
-1. Jin Huang classification article: https://ethresear.ch/t/beacon-chain-light-client-classification/11061
-2. Alex Stokes talk: https://www.youtube.com/watch?v=ysW-Bq05pJQ
+1. Light client specs: https://github.com/ethereum/consensus-specs/blob/dev/specs/altair/sync-protocol.md
+2. Jin Huang classification article: https://ethresear.ch/t/beacon-chain-light-client-classification/11061
+3. Alex Stokes talk: https://www.youtube.com/watch?v=ysW-Bq05pJQ
 
 ### Light client in Rust
 1. Dan Buchholz notes: https://github.com/ethereum-cdap/cohort-one/blob/master/notes/danbuchholz/prototype-lighthouse-light-client.md
